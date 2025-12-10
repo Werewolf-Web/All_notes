@@ -1,0 +1,86 @@
+⭐ 1. Borrow Anything – “Rent From Neighbour” Platform
+✔ Real-life Problem
+
+People often need things only for 1–2 days (drill machine, ladder, camera, cooking vessel), but shops don’t rent it or it's expensive.
+
+✔ Solution (Website Idea)
+
+A community-based platform where neighbours can rent items to each other.
+
+Features
+
+Live map of nearby rentable items
+
+Chat with owner
+
+Digital rental agreement
+
+Deposit security
+
+Damage report system
+
+
+
+
+
+
+
+
+
+============
+
+
+
+Hyperlocal Household Helper Finder
+✔ Real-life Problem
+
+People don’t easily find local helpers like:
+
+Electrician
+
+Plumber
+
+Carpenter
+
+AC repair
+
+Cleaning help
+
+✔ Website Idea
+
+A map-based system showing only nearby helpers available at that moment.
+
+Features
+
+Live availability
+
+One-tap booking
+
+Rate by hour
+
+Quick emergency service
+
+============================
+
+⭐ 7. Digital Medicine Reminder for Families
+✔ Real-life Problem
+
+Elders forget to take medicines.
+Family members work far and can’t remind them.
+
+✔ Website Idea
+
+Family can set medicine reminders that ring in elder’s phone.
+
+Features
+
+Multi-family login
+
+Pill schedule
+
+Missed-pill alert to family
+
+Doctor prescription storage
+
+=======================
+
