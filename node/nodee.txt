@@ -35,3 +35,45 @@ in that case node module and react component are not same because the node modul
 
 ========         Node.js provides 3 major types of modules:
 
+1️⃣ Core Modules (Built-in)
+
+Node.js provides built-in modules that you can use without installing anything.
+
+Examples:
+
+fs → File system
+http → Build server
+path → File paths
+os → OS information
+events → Event handling
+crypto → Encryption
+
+2️⃣ Local Modules (Your Own Files)
+
+
+3️⃣ Third-Party Modules (Installed via npm)
+
+These are packages created by the community.
+
+Examples:
+
+express → Web server
+mongoose → MongoDB
+axios → HTTP requests
+dotenv → Environment variables
+
+ES Modules (ECMAScript Imports)
+
+Node.js also supports modern import / export.
+
+export =>  2 ways
+1. default export
+2. named exports
+
+
+👉 module.exports — to export
+👉 require() — to import
+
+==========================
+
+
