@@ -1,0 +1,37 @@
+Introduction to Node.js
+
+Node.js is an open-source cross-platform runtime environment that allows you to use JavaScript to develop server-side applications.
+
+Every web browser has a JavaScript engine that compiles JavaScript code to machine code. For example, Firefox uses SpiderMonkey, and Google Chrome uses V8.
+
+computer can understand only muchine language so that the engine( V8 , etc) was convert js script to machine code (00110).
+
+=========
+
+Node.js is single-threaded
+
+meaning each process runs only one thread of execution.
+
+The single-threaded execution model allows Node.js to handle more concurrent requests easily via the event loop. As a result, Node.js applications typically consume less memory compared to others.
+
+
+==>   that means the all loop & Functions are run in one thread , if any loop and Functions need time then other function was not stop they run in background and executed ..
+
+synchronous : if any function and loop take time then other function are not execute they wait .
+
+Asynchronous : in this one opposit to synchronous if any fuction and loop take time then other function/Statement not wait they execute in background .
+
+=============
+
+🚀 What is a Node.js Module?
+
+A Node.js module is a small, independent piece of code that can be used (imported) in other files.
+
+👉 In simple words:
+Module = A file that contains reusable code.
+
+
+in that case node module and react component are not same because the node module has work in backend for a fuction / loop ,, in other side the react component was use to rerender the ui .
+
+========         Node.js provides 3 major types of modules:
+
