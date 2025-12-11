@@ -1,3 +1,11 @@
+                            if i wan to task was create teacher and only periculer selected techer's student give test
+
+                            in that use the techer_id as a foreign key in student table
+                            then when we select any student we can see his/her teacher name also
+                            so that we can easily find out who is teaching him/her
+                            and he/she can take test according to his/her teacher
+
+
 🎯 Smart Quiz + Document Analyzer Web App
 
 (Students upload PDF/Notes → System generates quizzes → Students practice → Score improves)
