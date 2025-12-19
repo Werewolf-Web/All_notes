@@ -7,7 +7,6 @@
 
 
 🎯 Smart Quiz + Document Analyzer Web App
-
 (Students upload PDF/Notes → System generates quizzes → Students practice → Score improves)
 Perfect for a unique BCA final year project ✔
 
@@ -92,15 +91,10 @@ Below are all modules you can develop.
 ✔ 1. Upload PDF / Document
 
 Students upload:
-
 PDF
-
 DOCX
-
 Notes images (optional)
-
 Text files
-
 System extracts text using OCR/Text extraction.
 
 ✔ 2. Auto Quiz Generator
@@ -108,13 +102,9 @@ System extracts text using OCR/Text extraction.
 System generates:
 
 MCQs
-
-True/False
-
-Fill in the blanks
-
-Short questions
-
+True/Fals
+Fill in the blan
+Short questio
 Generated from the uploaded file content.
 
 ✔ 3. Chapter-wise Quiz
@@ -131,26 +121,18 @@ Unlimited questions based on uploaded content.
 
 ✔ 5. Test Mode
 
-Timed test with:
-
-Countdown timer
-
-Locked navigation
-
+Timed test with
+Countdown time
+Locked navigatio
 Automatic submission
 
 ✔ 6. Result & Score Analysis
 
 After quiz:
-
 Score
-
 Accuracy
-
 Weak topics
-
 Speed
-
 Improvement graph
 
 ✔ 7. Personalized Recommendations
@@ -162,23 +144,16 @@ System suggests:
 ✔ 8. Flashcards Generator
 
 From uploaded PDF, system creates:
-
 Question on one side
-
 Answer on the other
-
 Great for quick memory revision.
 
 ✔ 9. Note Summarizer
 
 Summarizes PDF into:
-
 Short notes
-
 Bullet points
-
 Key formulas
-
 Important definitions
 
 ✔ 10. Leaderboard
@@ -187,25 +162,16 @@ Compete with friends and classmates.
 
 ⭐ B. Teacher/Faculty Module
 ✔ Upload Class Material
-
 Teachers upload chapter notes → each student gets auto-generated quizzes.
-
 ✔ Create Manual Quizzes
-
 If teachers want to add their own questions.
-
 ✔ Track Student Progress
 
 View:
-
 Who attempted quiz
-
 Scores
-
 Weak topics
-
 Class performance graph
-
 ✔ Share Material
 
 Teacher assigns:
@@ -263,6 +229,8 @@ Teachers download quiz as PDF to use offline.
 ⭐ Multi-language Support
 
 Gujarati, Hindi, English.
+
+
 
 🟥 5. Technology Stack (Choose One)
 🔵 Option 1: PHP + MySQL + Bootstrap
