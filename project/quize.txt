@@ -13,29 +13,17 @@ Perfect for a unique BCA final year project ✔
 🟦 1. Why This Project Is Made? (Problem Statement)
 
 Students today have many problems while learning:
-
 ❌ Students collect notes but don’t revise
-
 Most students download PDFs, slides, and notes but rarely revise them.
-
 ❌ Hard to make questions from study materials
-
 Creating MCQs manually is time-consuming for teachers and students.
-
 ❌ No intelligent personalized practice
-
 One quiz fits all — but every student is different.
-
 ❌ Lack of understanding
-
 Students read the material but don’t test themselves.
-
 ❌ Slow learning due to lack of feedback
-
 They don’t know which topic is weak or strong.
-
 ❌ Teachers spend hours creating question papers
-
 Manual question-making is slow & repetitive.
 
 👉 Main Problem:
@@ -175,76 +163,51 @@ Class performance graph
 ✔ Share Material
 
 Teacher assigns:
-
 Notes
-
 Quizzes
-
 Practice sets
 
 ⭐ C. Admin Module
 ✔ Manage Users
-
 Add/delete students & teachers.
-
 ✔ Manage Subjects
-
 Add subjects: DBMS, Java, Python, etc.
-
 ✔ Approve Materials
-
 Approve or disapprove uploaded PDF/notes.
-
 ✔ Backup & Restore Data
-⭐ D. Advanced Features (Adds High Marks)
+⭐ D. Advanced Features (Adds High Marks
 
 These features make your project top-level:
-
 ⭐ AI Difficulty Adjuster
-
 If student keeps answering correctly → difficulty increases.
-
-⭐ Gamification
+⭐ Gamificatio
 
 Badges:
-
 “Quiz Master”
-
 “Fast Solver”
-
 “Subject Topper”
 
 ⭐ Voice Quiz
-
 System reads questions → student answers by clicking.
-
 ⭐ Plagiarism Detector
-
 Check if uploaded notes match existing materials.
-
 ⭐ Export Quiz to PDF
-
 Teachers download quiz as PDF to use offline.
-
 ⭐ Multi-language Support
 
 Gujarati, Hindi, English.
 
+------------------
 
 
 🟥 5. Technology Stack (Choose One)
 🔵 Option 1: PHP + MySQL + Bootstrap
 
 (Easy + good UI)
-
 🟢 Option 2: Python Django
-
 (Perfect for AI and PDF processing)
-
 🟠 Option 3: MERN (Mongo + React + Node)
-
 (Modern + scalable)
-
 🔴 Option 4: Java + MySQL
 
 (Traditional + secure)
